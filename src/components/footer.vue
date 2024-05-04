@@ -7,7 +7,7 @@
         <div class="flex flex-col text-center justify-center items-center">
             <div class="flex flex-row gap-2">
                 <img src="../assets/logo.svg" alt="logo-footer">
-                <p>Gamma</p>
+                <p>MH</p>
 
             </div>
             <p>
